@@ -1,0 +1,95 @@
+body{
+  background-image: url(./background.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+  margin-top: 70px;
+  background-color: rgba(0,0,0,0.6);
+  padding: 50px;
+  border-radius: 15px;
+}
+
+header{
+  text-align: center;
+}
+
+.logo{
+  width: 200px;
+  text-align: center;
+}
+
+.titolo{
+  color: #00ff00;
+}
+
+.barra{
+  background-color: #00ff00;
+  text-align: center;
+  height: 40px;
+  }
+
+.button{
+justify-content: space-around;
+}
+
+
+
+
+.Gino{
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+.ginospan{
+  font-family: 'Inter', sans-serif;
+  width: 100px;
+}
+
+.aran{
+  background-color: orange;
+  border-radius: 5px;
+  width: 280px;
+}
+
+
+.Mike{
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.verde{
+  width: 600px;
+  background-color: #32cd32;
+  border-radius: 5px;
+}
+
+.mikespan{
+  font-family: 'Inter', sans-serif;
+  width: 100px;
+
+}
+
+
+.Fede{
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.rosa{
+  background-color: #e9967a;
+  border-radius: 5px;
+  width: 100px;
+}
+
+.fedespan{
+  font-family: 'Inter', sans-serif;
+  width: 100px;
+}
